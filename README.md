@@ -1,4 +1,5 @@
 # INFO-6150-Final-Project
+## This project was associated with Northeastern University [INFO-6150 Class]. The original repository of this project is [here](https://github.com/nawani-rohit/INFO-6150-Final-Project). [Note: The account used for committing the code was Northeastern's only which is "Bonie1999"]
 
 - Name (NUID): Bonie Rajkumar Sachdev (002774547)
 - Name (NUID): Puranjai Mendiratta (002747264)
